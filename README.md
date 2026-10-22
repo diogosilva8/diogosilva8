@@ -5,7 +5,7 @@ Computer Engineering @ University of Aveiro.
 
 🔹 I turn messy, manual processes into clean, automated data solutions.
 🔹 During my internship at **Yazaki** I built dashboards, apps and automations
-   across the Microsoft 365 ecosystem — one saved an estimated ~110 h/year of manual work.
+   across the Microsoft 365 ecosystem - one saved an estimated ~110 h/year of manual work.
 🔹 Currently sharpening my **SQL** and **Python** to grow into data engineering.
 
 ### 🛠️ Tech & Tools
