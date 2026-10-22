@@ -17,6 +17,7 @@ Computer Engineering @ University of Aveiro.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Core:** Power BI (DAX, Power Query, Dataflows) · SQL · Data Modeling · ETL · Power Apps · Power Automate
+
 **Learning:** Python for Data · Data Engineering foundations
 
 ### 📫 Reach me
